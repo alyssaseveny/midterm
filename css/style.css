@@ -1,0 +1,84 @@
+html{
+    font-family:"Vesper Libre", serif;     
+}
+
+p.text-decortations{
+    color: #1a1a1a;
+    line-height: 1.5;
+    margin: 0%;
+}
+
+header, footer{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+
+}
+
+img{
+width: 100%;
+}
+    
+
+#logo{
+    width: 100px;
+    padding-top: 8px;
+
+}
+
+main{
+
+    padding: 20px;
+}
+
+h1{
+    font-size: 2rem;
+    line-height: 1.3;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+
+}
+
+.news{
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: .85rem;
+    border-bottom: 2px;
+    border-color: #ff3530;
+    
+
+}
+
+figcaption, .news, author, subtitle, date h1{
+    font-family: "Open Sans", serif;
+
+}
+
+figure{
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    margin-left:0%
+    margin-right: 0%;
+}
+
+figcaption{
+    font-size: .75rem;
+    text-align: center;
+    text-decoration-color: #757575;
+    font-style: italic;
+
+
+}
+
+ul{
+    list-style: none;
+    padding-left: 0%;
+}
+
+a:link{
+    .one:link{color: #1a1a1a;}
+    .one:text-decoration: underline;
+    .one:hover{ color: #ff3530;}
+}
+
